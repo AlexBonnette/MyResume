@@ -1,5 +1,5 @@
 # MyResume
 
-Lost my resume? Here it is!
+This repository is exclusively for my resume and other pertinent documents
 
-Additional related documents will also appear here.
+Documents titled the same are the same document, simply different file formats.
